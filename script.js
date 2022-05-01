@@ -93,4 +93,6 @@ fetch(url).then((response) => {
   })
   .catch((error) => {
     console.log(error)
-  });   bad();               
+  });
+}
+bad();               
