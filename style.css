@@ -1,0 +1,20 @@
+.head{
+    display: none;
+}
+.idSearch{
+    display: none;
+}
+.image{
+    width: 200px;
+    height : 200px;
+    display: flex;
+    margin-right: 20px;
+
+}
+.break{
+    border: 1px black solid ;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
